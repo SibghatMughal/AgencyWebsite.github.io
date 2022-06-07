@@ -537,7 +537,8 @@ opacity: 1;
 
 @media screen and (max-width: 576px){
 	.logo{
-		width: 482px;
+		width: 450px;
+		text-align:center;
 		
 	}
 	nav ul li a{
